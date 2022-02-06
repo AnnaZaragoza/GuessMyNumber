@@ -3,9 +3,7 @@
 ![Alt Text]()
 
 # Description:
-Simple game where you have to guess a random number.
-
-Play here: [?](https://annazaragoza.net/guess/index.html)
+Simple game where you have to guess a random number. Play here: [?](https://annazaragoza.net/guess/index.html)
 
 ### Exercice to practice JavaScript:
 * HTML and CSS - copied from teacher
