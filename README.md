@@ -7,7 +7,7 @@ Simple game where you have to guess a random number.
 
 Play here: [?](https://annazaragoza.net/guess/index.html)
 
-###Exercice to practice JavaScript:
+### Exercice to practice JavaScript:
 * HTML and CSS - copied from teacher
 * JavaScript and Responsive - created from me, 100% from scratch :)
 
