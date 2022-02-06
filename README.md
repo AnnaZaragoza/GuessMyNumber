@@ -1,9 +1,11 @@
 # GuessMyNumber
 
-![Alt Text](https://github.com/AnnaZaragoza/06-ToAddList/blob/95aa09bd5e234637b9bdbf6fdd4df3871e68e231/readmeImage.jpg)
+![Alt Text]()
 
 # Description:
 Simple game where you have to guess a random number.
+
+Play here: [?]()
 
 ###Exercice to practice JavaScript:
 * HTML and CSS - copied from teacher
