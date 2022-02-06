@@ -1,6 +1,6 @@
 # GuessMyNumber
 
-![Alt Text]()
+![Alt Text](https://github.com/AnnaZaragoza/GuessMyNumber/blob/a48ecd8e4039a6a61e3f7e503fbcaf72eeebe22c/imageGit.png)
 
 # Description:
 Simple game where you have to guess a random number. Play here: [?](https://annazaragoza.net/guess/index.html)
