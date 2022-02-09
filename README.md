@@ -6,7 +6,7 @@
 Simple game where you have to guess a random number. Play here: [?](https://annazaragoza.net/guess/index.html)
 
 ### Exercice to practice JavaScript:
-* HTML and CSS - copied from teacher
+* HTML and CSS - copied from teacher (as not relevant)
 * JavaScript and Responsive - created from me, 100% from scratch :)
 
 # References:
