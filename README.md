@@ -13,6 +13,7 @@ Simple game where you have to guess a random number. Play here: [?](https://anna
   - Handling click events
   - Implementing the game logic 
   - Implementing highscores logic
+  - Handling keydown event - for the click button
 
 # References:
 * Exercice from Udemy course: The Complete JavaScript Course 2022: From Zero to Expert!
