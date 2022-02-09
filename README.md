@@ -7,7 +7,12 @@ Simple game where you have to guess a random number. Play here: [?](https://anna
 
 ### Exercice to practice JavaScript:
 * HTML and CSS - copied from teacher (as not relevant)
-* JavaScript and Responsive - created from me, 100% from scratch :)
+* Responsive
+* JavaScript:
+  - DOM manipulation: selecting, manipulating elements and CSS styles
+  - Handling click events
+  - Implementing the game logic 
+  - Implementing highscores logic
 
 # References:
 * Exercice from Udemy course: The Complete JavaScript Course 2022: From Zero to Expert!
