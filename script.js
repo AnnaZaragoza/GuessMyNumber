@@ -98,3 +98,36 @@ resetBtn.addEventListener('click', function () {
     displayHighscore(highscore);
   }
 });
+
+document.addEventListener('keydown', function (e) {
+  if (e.key === 'Enter') {
+    const guessInput = Number(document.querySelector('.guess').value);
+
+    if (
+      (score <= 0 && (!guessInput || guessInput < 1 || guessInput > 20)) ||
+      score <= 0
+    ) {
+      displayMessage('You lost, try again!');
+      changeBackgroundColor('#ff1a1a');
+      score = 0;
+    } else if (!guessInput || guessInput < 1 || guessInput > 20) {
+      displayMessage('Write a number between 1 and 20');
+      score--;
+      displayScore(score);
+    } else if (guessInput > secretNumber && guessInput <= 20) {
+      displayMessage('Number is too high');
+      score--;
+      displayScore(score);
+    } else if (guessInput < secretNumber && guessInput >= 1) {
+      displayMessage('Number is too low');
+      score--;
+      displayScore(score);
+    } else if (guessInput === secretNumber) {
+      displayMessage('You win!');
+      changeBackgroundColor('green');
+      displayNumber(guessInput);
+      score--;
+      displayScore(score);
+    }
+  }
+});
